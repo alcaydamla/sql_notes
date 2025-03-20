@@ -16,10 +16,4 @@ Bu depo, SQL öğrenirken kullanılabilecek kapsamlı notları içermektedir. �
 
 📜 **SQL ile ilgili faydalı bilgiler ve örnek sorgular için bu depoyu inceleyebilirsiniz!** 🔥
 
-## 🚀 Kullanım
-
-Depodaki SQL notlarını kullanmak için:
-
-```sql
-SELECT * FROM employees WHERE salary > 5000;
 
