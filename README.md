@@ -11,8 +11,6 @@ Bu depo, SQL öğrenirken kullanılabilecek kapsamlı notları içermektedir. �
 - **Subquery ve Nested Query**
 - **View, Index ve Transaction Yönetimi**
 - **DDL, DML, TCL Komutları**
-- **Stored Procedures, Triggers ve Functions**
-- **Performans Optimizasyonu**
 
 📜 **SQL ile ilgili faydalı bilgiler ve örnek sorgular için bu depoyu inceleyebilirsiniz!** 🔥
 
